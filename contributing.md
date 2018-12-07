@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/sinnerschrader/patternplate">
-    <img width="200" src="https://cdn.rawgit.com/marionebl/patternplate-hubot/master/patternplate-hubot.svg" />
+    <img width="200" src="https://cdn.jsdelivr.net/gh/marionebl/patternplate-hubot/patternplate-hubot.svg" />
   </a>
 </div>
 <br />
